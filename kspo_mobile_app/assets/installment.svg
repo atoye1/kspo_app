@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="#F5F5F5"/>
+  <text x="50" y="45" font-family="Arial" font-size="20" font-weight="bold" fill="#666" text-anchor="middle">0%</text>
+  <text x="50" y="65" font-family="Arial" font-size="14" fill="#666" text-anchor="middle">무이자</text>
+</svg>

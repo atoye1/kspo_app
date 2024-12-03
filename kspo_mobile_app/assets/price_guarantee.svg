@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="#F5F5F5"/>
+  <path d="M35 50 L45 60 L65 40" stroke="#42B883" stroke-width="8" fill="none"/>
+  <text x="50" y="80" font-family="Arial" font-size="14" fill="#666" text-anchor="middle">최저가</text>
+</svg>
